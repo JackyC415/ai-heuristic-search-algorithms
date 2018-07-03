@@ -1,6 +1,6 @@
 # BFS and DFS Algorithm
 
-BFS and DFS were implemented based on the uniformed cost search algorithm.
+BFS and DFS were implemented based on the uniformed cost search algorithm; referenced pseudocode from the textbook,"Artificial Intelligence A Modern Approach Third Edition by Stuart J. Russell and Peter Norvig", located in pages.82.
 Author of implmentations: Jacky Z. Chen
 
 # Backward Chaining Algorithm
@@ -53,6 +53,8 @@ Author of implmentations: Jacky Z. Chen
  # Layer
  
  This class implements a layer of processing units.
+ Methods were implemented based on the BACK-PROP-LEARNING neural network algorithm referenced from the textbook,
+ "Artificial Intelligence A Modern Approach Third Edition by Stuart J. Russell and Peter Norvig", located on pages.734.
+ 
  David Noelle -- Tue Apr 24 15:51:19 PDT 2007
  Author of implmentations: Jacky Z. Chen
- Methods were implemented based on the BACK-PROP-LEARNING neural network algorithm.

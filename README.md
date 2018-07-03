@@ -1,7 +1,6 @@
 # BFS and DFS Algorithm
 
 BFS and DFS were implemented based on the uniformed cost search algorithm; referenced pseudocode from the textbook,"Artificial Intelligence A Modern Approach Third Edition by Stuart J. Russell and Peter Norvig", located in pages.82.
-Author of implmentations: Jacky Z. Chen
 
 # Backward Chaining Algorithm
 
@@ -30,7 +29,6 @@ Author of implmentations: Jacky Z. Chen
  bindings for intermediate variables.
   
  David Noelle -- Tue Apr 10 17:08:45 PDT 2007
- Author of implmentations: Jacky Z. Chen
 
 # Eval
 
@@ -48,7 +46,6 @@ Author of implmentations: Jacky Z. Chen
  about this game, see "zombiedice.sjgames.com".
  
  David Noelle -- Sat Nov  3 16:37:10 PDT 2012
- Author of implmentations: Jacky Z. Chen
  
  # Layer
  
@@ -57,4 +54,5 @@ Author of implmentations: Jacky Z. Chen
  "Artificial Intelligence A Modern Approach Third Edition by Stuart J. Russell and Peter Norvig", located on pages.734.
  
  David Noelle -- Tue Apr 24 15:51:19 PDT 2007
+ 
  Author of implmentations: Jacky Z. Chen
